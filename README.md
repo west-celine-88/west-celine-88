@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Celine 👋🏼
 
-<!--
-**west-celine-88/west-celine-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a biomedical engineer with experience in **molecular biology, biosafety, and data analysis** 
+My background spans both **hands-on lab work** and **strategic global health projects**  
 
-Here are some ideas to get you started:
+Currently:
+- 🦠 Working at Sandia National Laboratories on biosafety & biosecurity   
+- 💻 Completing post-baccalaureate coursework in Python & bioinformatics at Georgia State University  
+- 🧬 Preparing for a return to **biomedical research**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+I’m seeking opportunities that let me bridge **biomedical research** with **computational approaches**, while contributing to impactful projects in health and science.  
+
+📫 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:west.celine@outlook.com)
