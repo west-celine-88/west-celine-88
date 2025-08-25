@@ -11,4 +11,4 @@ Currently:
 ### Goals
 I’m seeking opportunities that let me bridge **biomedical research** with **computational approaches**, while contributing to impactful projects in health and science.  
 
-📧 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:west.celine@outlook.com)
+📬 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:west.celine@outlook.com)
